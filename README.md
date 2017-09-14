@@ -1,4 +1,4 @@
-# -整理的一些学习资源
+# 整理的一些学习资源
 - [CocoaChina 苹果开发中文站 - 最热的iPhone开发社区 最热的苹果开发社区 最热的iPad开发社区](http://www.cocoachina.com/)
 - [Ray Wenderlich | Tutorials for iPhone / iOS Developers and Gamers](http://www.raywenderlich.com/)
 - [AppCoda Community - Learn iOS Programming and Build iPhone App](http://www.appcoda.com)
