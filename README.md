@@ -15,12 +15,8 @@
  - [博客园 - 开发者的网上家园](http://www.cnblogs.com/)
  - [CSDN.NET - 全球最大中文IT社区，为IT专业技术人员提供最全面的信息传播和服务平台](http://www.csdn.net/)
  - [Stack Overflow](http://stackoverflow.com/)
-## ios 开源项目集合
-- [Github-iOS开源项目集合](http://github.ibireme.com/github/list/ios/)
-+- [常用第三方库](http://segmentfault.com/a/1190000003849085)
+
 ##中文 iOS/Mac 开发博客列表
- 博客地址 | 博客地址 | 博客地址 | 博客地址
- ----- | ----- | ----- | -----
  [OneV's Den](http://onevcat.com) | [破船之家](http://beyondvincent.com)|[技术哥的博客](http://suenblog.duapp.com/) |[Luke's Homepage](http://geeklu.com/)
  [NSHipster](http://nshipster.cn) | [Limboy 无网不剩](http://blog.leezhong.com/)| [Kenshin Cui's Blog](http://www.cnblogs.com/kenshincui/)|[萧宸宇](http://iiiyu.com/)
  [Lex Tang](http://lexrus.com/) | [唐巧的技术博客](http://blog.devtang.com)|[Why's blog - 汪海的实验室](http://blog.callmewhy.com/)|[摇滚诗人](http://cnblogs.com/biosli)
